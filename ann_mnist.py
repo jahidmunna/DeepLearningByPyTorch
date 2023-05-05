@@ -1,6 +1,10 @@
 '''
 This is an example script to classify multi class classification 
 using the Apple sillicon Chip on MNIST dataset using PyTorch.
+
+Library Installation: 
+# MPS acceleration is available on MacOS 12.3+
+`pip install torch torchvision torchaudio`
 '''
 
 # Import Libraries
